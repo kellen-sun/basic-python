@@ -1,5 +1,5 @@
 # basic-python
-Basic Python book
+Basic Python book version 1.0
 
 will contain txt files and docx files
 
